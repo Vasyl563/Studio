@@ -1,0 +1,36 @@
+.client {
+padding-top: 40px;
+/* padding-left: 120px; */
+}
+.client-our {
+  display: flex;
+}
+.client-content {
+
+}
+.client-title {
+  margin-bottom: 17px;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 49px;
+}
+.client-text {
+  line-height: 1.5;
+  max-width: 336px;
+  margin-right: 80px;
+  color: #757575;
+  font-weight: 400;
+  font-size: 18px;
+}
+.client-web {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 50px;
+}
+.client-web a + a {
+  margin-left: 60px;
+}
+.client-web-last {
+  padding-top: 20px;
+}

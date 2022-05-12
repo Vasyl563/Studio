@@ -1,0 +1,35 @@
+.product {
+  padding-top: 146px;
+  padding-bottom: 117px;
+}
+.product-content {
+  display: flex;
+  align-items: center;
+}
+.product-video {
+  position: relative;
+}
+.product-video-since {
+  
+}
+.product-text {
+  padding-left: 118px;
+}
+.product-text-title {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 49px;
+  margin-bottom: 30px;
+}
+.product-text-since {
+  max-width: 532px;
+  color: #565656;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+
+
+
+

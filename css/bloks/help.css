@@ -1,0 +1,147 @@
+.help {
+  padding-top: 94px;
+}
+.help-content {
+  display: flex;
+}
+.help-description {
+  position: relative;
+  margin-top: 380px;
+  margin-right: 91px;
+}
+.help-title {
+  position: relative;
+  max-width: 358px;
+  padding-bottom: 30px;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 49px;
+}
+.help-text {
+  max-width: 396px;
+  font-weight: 400;
+  line-height: 1.5;
+  font-size: 16px;
+  color: #565656;
+}
+.help-finances {
+  position: relative;
+  display: flex;
+}
+.help-finances-website {
+  position: relative;
+  background-color: #ffffff;
+  border: 1px solid #f2f2f2;
+  box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.05);
+  border-radius: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 22px 20px 30px;
+  width: 308px;
+  height: 379px;
+}
+.card-1 {
+  margin-right: 34px;
+  margin-top: 79px;
+  margin-bottom: 30px;
+}
+.card-2 {
+  margin-bottom: 30px;
+}
+.card-3 {
+  margin-right: 34px;
+}
+.card-4 {
+  position: relative;
+  margin-top: 30px;
+}
+.help-ico {
+  z-index: 3;
+  margin-top: 20px;
+  width: 74px;
+  height: 74px;
+}
+.help-finances-title {
+  max-width: 220px;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 30px;
+  text-align: center;
+  padding-top: 54px;
+  padding-bottom: 27px;
+}
+.help-finances-text {
+  max-width: 245px;
+  color: #757575;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: center;
+  padding-bottom: 57px;
+}
+.help-dots {
+  position: absolute;
+  z-index: -3;
+  margin-top: 104px;
+}
+.help-rectangle-desc {
+  position: absolute;
+  z-index: -1;
+  margin-top: 315px;
+  width: 178px;
+  height: 178px;
+  background: #fff5db;
+  border-radius: 0px 0px 100px 0px;
+  transform: rotate(-180deg);
+}
+.help-rectangle-card {
+  position: absolute;
+  z-index: -2;
+  margin-top: 120px;
+  right: 0;
+  width: 950px;
+  height: 619px;
+  background: #f4f9ff;
+  border-radius: 150px 0px 0px 0px;
+}
+.help-rectangle-icon-1 {
+  position: absolute;
+  width: 121px;
+  height: 121px;
+  background: #f1f7ff;
+  border-radius: 20px;
+}
+.help-rectangle-icon-2 {
+  position: absolute;
+  width: 121px;
+  height: 121px;
+  background: #fff7e3;
+  border-radius: 20px;
+}
+.help-rectangle-icon-3 {
+  position: absolute;
+  width: 121px;
+  height: 121px;
+  background: #fff2f8;
+  border-radius: 20px;
+}
+.help-rectangle-icon-4 {
+  position: absolute;
+  width: 121px;
+  height: 121px;
+  background: #deffee;
+  border-radius: 20px;
+}
+.help-ellipse {
+  position: absolute;
+  z-index: -10;
+  box-sizing: border-box;
+  position: absolute;
+  margin-left: 270px;
+  margin-top: 280px;
+  width: 120px;
+  height: 120px;
+  border: 8px solid #ff007a;
+  border-radius: 100%;
+}
